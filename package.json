@@ -27,7 +27,7 @@
     "lodash": "^4.17.21",
     "lodash-es": "^4.17.21",
     "node-cron": "^3.0.2",
-    "node-fetch": "^3.3.0",
+    "node-fetch": "^2.6.7",
     "pino": "^8.8.0",
     "threads": "^1.7.0",
     "winston": "^3.8.2",
