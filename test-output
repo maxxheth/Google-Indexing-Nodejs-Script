@@ -1,0 +1,724 @@
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/contact/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/5-facons-dont-lia-simplifie-le-processus-de-developpement-logiciel/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/a-propos/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/lia-peut-elle-concevoir-un-convecteur-temporel/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/le-role-des-big-data-dans-le-marketing-alimente-par-lia/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/utiliser-l-ia-pour-la-creation-de-contenu-seo/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/comment-lia-a-revolutionne-lindustrie-du-jeu-en-ligne/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/le-domaine-de-la-science-des-donnees-continue-de-changer-le-monde-pour-le-mieux/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/comment-le-big-data-fait-evoluer-les-marches-immobiliers/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/les-13-principaux-faits-concernant-python-pour-la-science-des-donnees/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/rpa-vs-rda-les-4-grandes-differences/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://intelligenceartificielle.dev/video-enhance-ai-vs-davinci-resolve/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.ganjatimes.fr/les-concentres-de-cannabis-ou-cbd-peuvent-ils-perimer/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.ganjatimes.fr/ne-pas-consommer-cannabis-avant-ou-apres-operation-chirurgicale/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.ganjatimes.fr/demystification-mythes-cannabis/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.ganjatimes.fr/hhc-test-depistage/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.ganjatimes.fr/cannabis-accelere-metabolisme/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.ganjatimes.fr/musique-influence-t-elle-croissance-plants-cannabis/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.ganjatimes.fr/fumer-de-lherbe-ne-vous-rend-pas-automatiquement-cool/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-depression/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-et-alcool/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/fumer-cbd/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-chien-sante/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-test-salivaire/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-sommeil/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-italie/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-chat-asmathique/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-grenoble/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-clermont-ferrand/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-rennes/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/chat-cbd-fracture/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/interdiction-cbd-france-contre-decisions-cour-justice-europeenne/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/aux-etats-unis-une-etude-experimentale-se-penche-sur-les-effets-analgesiques-du-cbd/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-troubles-erection/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-demence/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/combien-de-gummies-au-cbd-dois-je-prendre-pour-dormir/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/eviter-achat-cbd-sur-amazon/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/eau-cbd/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/banque-qui-accepte-cbd/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-crossfit/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/pourquoi-passer-du-thc-au-cbd/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://www.cbdtemple.fr/cbd-performances-sexuelles/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/conseils-pour-aider-a-vous-endormir-le-soir/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/les-oreillers-en-plumes-sont-ils-hypoallergeniques/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/pourquoi-les-draps-sont-ils-si-chers/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/comment-adoucir-des-draps-a-faible-nombre-de-fils-astuce-facile/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/les-oreillers-en-mousse-a-memoire-de-forme-sont-ils-hypoallergeniques/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/peut-on-vraiment-dormir-trop/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/a-quelle-frequence-devez-vous-remplacer-votre-oreiller/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/conditions-generales/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/matelas-eva/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/remboursement-matelas/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/terreurs-nocturnes/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/le-magnesium-et-le-sommeil-sont-ils-lies/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/matelas-dormir-sur-le-dos/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/pourquoi-mon-bebe-ne-dort-il-pas-toute-la-nuit/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/existe-t-il-une-bonne-position-de-sommeil/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/7-etapes-pour-faire-dormir-un-nouveau-ne-la-nuit/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/matelas-ikea/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/conseils-insomnie/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/questions-sommeil/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/poids-couverture-lestee/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/comment-reinitialiser-votre-horaire-de-sommeil/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/oreiller-ronflement/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/le-suivi-de-votre-sommeil-est-il-une-bonne-idee/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/matelas-emma/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/guide-dachat-oreiller-sciatique/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/matelas-gonflables/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/oreiller-polyester-hypoallergenique/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/ne-pas-etudier-au-lit/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/boulochage-draps/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/quest-ce-que-hygiene-du-sommeil/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/comment-adoucir-draps-coton/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/5-raisons-votre-bebe-8-mois-ne-veut-pas-dormir/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/procrastination-sommeil/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://magic-bed.com/conseils-pour-aider-enfants-dormir-seuls/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/une-filtration-dair-domestique-intelligente-plus-saine-revue-daura-air/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/aspirateurs-robots-cest-nouveau-5-choses-a-savoir-avant-den-acheter-un/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/le-grand-evenement-materiel-damazon-est-prevu-pour-le-28-septembre-a-quoi-sattendre/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/visiophone/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/politique-de-confidentialite/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/comment-la-technologie-intelligente-guide-les-decisions-en-matiere-de-maisons-durables/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/10-conseils-pour-proteger-votre-maison-lorsque-vous-etes-en-vacances%ef%bf%bc/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/peut-on-utiliser-un-televiseur-comme-moniteur-dordinateur/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/configurer-2-reseaux-wifi-dans-une-maison/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/utiliser-une-camera-de-surveillance-arlo-sans-abonnement-est-ce-possible/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/les-aspirateurs-robotises-representent-ils-un-danger-pour-les-utilisateurs/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/lutilisation-de-lintelligence-artificielle-dans-un-roomba/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/fitbit-peut-il-se-synchroniser-avec-apple-health-la-solution-la-plus-simple/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/comment-regarder-des-videos-youtube-sur-un-echo-show/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/5-raisons-pour-lesquelles-la-detection-de-mouvement-est-importante-pour-la-videosurveillance/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/amazon-fire-stick-quest-ce-que-cest-et-comment-ca-marche/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/comment-alexa-vous-aider-a-controler-votre-eclairage/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/can-fitbit-versa-3-answer-calls/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/5-facons-de-se-proteger-des-violations-de-donnees/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/apple-tv-sur-firestick-streaming-sur-fire-tv/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/le-fitbit-peut-il-detecter-lapnee-du-sommeil/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/the-bridge-est-la-pour-rester/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/quest-ce-qui-ne-va-pas-avec-thread-amazon-dit-quil-nest-pas-tout-a-fait-pret-pour-le-prime-time/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/lapplication-web-de-google-home-commence-a-etre-deployee-et-permet-aux-utilisateurs-de-visualiser-les-flux-en-direct-de-nest/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/la-technologie-intelligente-aide-a-construire-des-maisons-durables/","type":"URL_UPDATED"}
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/avez-vous-besoin-dalexa-pour-utiliser-un-echo-ou-un-echo-dot/","type":"URL_UPDATED"}
+
+--===============7330845974216740156==
+Content-Type: application/http
+
+POST /v3/urlNotifications:publish HTTP/1.1
+Content-Type: application/json
+
+{"url":"https://mamaisonconnectee.net/avez-vous-besoin-dalexa-pour-utiliser-un-echo-ou-un-echo-dot/","type":"URL_UPDATED"}
+
+--===============7330845974216740156==--

@@ -1,5 +1,3 @@
-import { record, string } from "zod";
-
 const metrics = [
   "largest_contentful_paint",
   "first_contentful_paint",
